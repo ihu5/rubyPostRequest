@@ -14,7 +14,7 @@ $cardID = null;
 
 	 if($_POST['cardID'] == 1){
 		//echo "CARD ID: ".$_POST['cardID'];
-		echo "Name: Hussain"."\n";
+		echo "Name: abdullah"."\n";
 	 }else{
 		//echo "CARD ID: ".$_POST['cardID'];
 		echo "Name: Unknown user"."\n";
